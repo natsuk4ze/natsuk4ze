@@ -1,6 +1,6 @@
 # Hoya👋 It's Midori from [Midori Design Studio💚](https://github.com/Midori-Design-Studio)
 
-_Just coding with green heart💚_ "Midori" means green in JP you know?
+_Just coding with green heart._ "Midori" means green in JP you know?
 
 ## Works
 
