@@ -11,6 +11,10 @@ _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 ### [Link🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI.
 
  <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="600"/>
+ 
+### [Planet📚](https://planet-1424d.web.app) -  CMS for story writer using flutter web - archived & private repo.
+
+ <img src="assets/planet.gif" alt="planet" width="600"/>
 
 ### [Tank Beats🎵](https://github.com/natsuk4ze/tank-beats) - 3D shooting x music game, beats with tank.
 
