@@ -1,4 +1,4 @@
-# Hi there👋 It's Midori from [Midori Design Studio💚](https://github.com/Midori-Design-Studio)
+# Hoya👋 It's Midori from [Midori Design Studio💚](https://github.com/Midori-Design-Studio)
 
 _Just coding with green heart💚_
 
@@ -32,7 +32,7 @@ I'm Midori Natuskaze, ex-game dev now in flutter.
 
 * Birth - 2000
 * Location - Tokyo
-* Fav - Art🎨, Music🎵, ASMR🎙, Earing✨, Emoji🥺
+* Fav - Art🎨, Music🎵, ASMR🎙, Earing✨
 
 ## Diff between "Midori" and "Midori Design Studio"
 
