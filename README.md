@@ -32,7 +32,7 @@ _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
 ## About Me
 
-I'm Midori Natuskaze, ex-game dev now in flutter.
+I'm Midori Natuskaze, ex-game dev, flutter now.
 
 * Birth - 2000
 * Location - Tokyo
