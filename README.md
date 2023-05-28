@@ -12,7 +12,7 @@ _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
  <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="600"/>
  
-### [Planet📚](https://planet-1424d.web.app) -  Flutter web based CMS for story writer - archived & private repo.
+### [Planet📚](https://planet-1424d.web.app) -  Flutter web based CMS for story writer - archived.
 
  <img src="assets/planet.gif" alt="planet" width="600"/>
 
