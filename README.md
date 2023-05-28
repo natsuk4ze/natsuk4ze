@@ -8,7 +8,7 @@ _Just coding with green heart._ "Midori" means green in JP you know?
 
  <img src="https://github.com/Midori-Design-Studio/gal/raw/main/example/assets/example.gif" alt="gal" height="300"/>
  
-### [Link🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building sity with AI.
+### [Link🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI.
 
  <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="600"/>
 
