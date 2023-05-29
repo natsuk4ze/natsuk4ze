@@ -4,7 +4,7 @@ _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
 ## Works
 
-### [Gal🖼](https://github.com/Midori-Design-Studio/gal) - Flutter plugin for handle native gallery apps.
+### [Gal🖼](https://pub.dev/packages/gal) - Flutter plugin for handle native gallery apps.
 
  <img src="https://github.com/Midori-Design-Studio/gal/raw/main/example/assets/example.gif" alt="gal" height="300"/>
  
