@@ -1,4 +1,4 @@
-# Hoya🤟 It's Midori from [Midori Design Studio💚](https://github.com/Midori-Design-Studio)
+# Hoya🤟 It's Midori from [Midori Design Studio💚](https://github.com/MidoriDesignStudio)
 
 _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
