@@ -41,7 +41,7 @@ I'm Midori Natuskaze, ex-game dev, flutter now.
 ## Diff between "Midori" and "Midori Design Studio"
 
 Basically, [Midori repos](https://github.com/natsuk4ze?tab=repositories) are where personal projects are placed.
-The [Midori Design Studio repos](https://github.com/orgs/Midori-Design-Studio/repositories) is for projects that everyone can use, such as libraries.
+The [Midori Design Studio repos](https://github.com/orgs/MidoriDesignStudio/repositories) is for projects that everyone can use, such as libraries.
 
 ## Contact Me
 
