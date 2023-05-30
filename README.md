@@ -2,6 +2,8 @@
 
 _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
+<!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true)-->
+
 ## Showcase
 
 ### [Gal🖼](https://pub.dev/packages/gal) - Flutter plugin for handle native gallery apps.
