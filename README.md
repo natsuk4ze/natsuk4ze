@@ -1,4 +1,4 @@
-# Hoya🤟
+# Hoya💚
 
 _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
