@@ -1,4 +1,4 @@
-# Hoya🤟 It's Midori from [Midori Design Studio💚](https://github.com/MidoriDesignStudio)
+# Hoya🤟
 
 _Just coding with green heart._ "Midori" means green in 🇯🇵 you know?
 
@@ -38,11 +38,6 @@ I'm Midori Natuskaze, ex-game dev, flutter now.
 * Birth - 2000
 * Location - Tokyo
 * Fav - Art🎨, Music🎵, ASMR🎙, Earing✨
-
-## Diff between "Midori" and "Midori Design Studio"
-
-Basically, [Midori repos](https://github.com/natsuk4ze?tab=repositories) are where personal projects are placed.
-The [Midori Design Studio repos](https://github.com/orgs/MidoriDesignStudio/repositories) is for projects that everyone can use, such as libraries.
 
 ## Contact Me
 
