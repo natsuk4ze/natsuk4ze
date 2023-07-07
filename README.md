@@ -1,6 +1,6 @@
 # Hoya👋
 
-_I Just coding with green heart._ "Midori" means green in 🇯🇵.
+Lately, I've been interested in interaction and analog-digital hybrids.
 
 <!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true)-->
 
