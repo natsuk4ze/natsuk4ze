@@ -8,7 +8,7 @@ Lately, I've been interested in interaction and analog-digital hybrids.
 
 ### [Gal 🖼](https://pub.dev/packages/gal) - Flutter plugin for handle native gallery apps.
 
- <img src="https://github.com/Midori-Design-Studio/gal/raw/main/example/assets/example.gif" alt="gal" height="300"/>
+ <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/android.gif" alt="gal" height="340"/> 
  
 ### [Link 🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI.
 
