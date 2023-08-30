@@ -14,7 +14,7 @@ Lately, I've been interested in interaction and analog-digital hybrids.
 
  <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="600"/>
  
-### [Planet 📚](https://planet-1424d.web.app) -  Flutter web based CMS for story writer. *archived
+### [Planet 📚](https://planet-1424d.web.app) -  CMS for story writer made with flutter web. *archived
 
  <img src="assets/planet.gif" alt="planet" width="600"/>
  
