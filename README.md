@@ -29,7 +29,7 @@ Lately, I've been interested in interaction and analog-digital hybrids.
 
 ## Awards 🎖
 
-* *HAL大賞*🏅 at [未来創造展2019](https://www.hal.ac.jp/tokyo/campuslife/ms2019)
+* *HAL Grand Prize*🏅 at [未来創造展2019](https://www.hal.ac.jp/tokyo/campuslife/ms2019)
 
 ## About Me
 
