@@ -1,6 +1,6 @@
 # Hoya👋
 
-Lately, I've been interested in interaction and analog-digital hybrids.
+Lately, I've been interested in embedding flutter for native app.
 
 <!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true)-->
 
