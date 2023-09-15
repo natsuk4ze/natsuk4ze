@@ -30,6 +30,7 @@ Lately, I've been interested in interaction and analog-digital hybrids.
 ## Awards 🎖
 
 * *HAL Grand Prize*🏅 at [未来創造展2019](https://www.hal.ac.jp/tokyo/campuslife/ms2019)
+-> 🎁 Bali trip for a week.
 
 ## About Me
 
