@@ -1,6 +1,6 @@
 # Hoya👋
 
-Lately, I've been interested in embedding flutter for native app.
+I'm Midori Natuskaze, ex game dev, flutter now.
 
 <!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true)-->
 
@@ -33,8 +33,6 @@ Lately, I've been interested in embedding flutter for native app.
 -> 🎁 Bali trip for a week.
 
 ## About Me
-
-I'm Midori Natuskaze, ex-game dev, flutter now.
 
 * Birth - 2000
 * Location - Tokyo
