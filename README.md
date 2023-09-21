@@ -21,6 +21,10 @@ I'm Midori Natuskaze, ex game dev, flutter now.
 ### [City Star Liner 🌌](https://github.com/natsuk4ze/city-star-liner) - 3D shooting game, draw line = break everthing.
 
  <img src="https://github.com/natsuk4ze/city-star-liner/blob/master/readme-assets/showcase.gif" alt="citystarliner" width="600"/>
+
+### [npm client 📦](https://github.com/natsuk4ze/npm) - npm client app with modern flutter coding style.
+
+ <img src="https://github.com/natsuk4ze/npm/raw/master/assets/example.gif" alt="npm-client" width="280"/>
  
  |[Tank Beats 🎵](https://github.com/natsuk4ze/tank-beats) | [Space Rabbits 🐰](https://github.com/natsuk4ze/space-rabbits) |
 |:-:|:-:|
