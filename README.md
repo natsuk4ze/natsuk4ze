@@ -12,7 +12,7 @@ I'm Midori Natuskaze, ex game dev, flutter now.
 
 ### [npm client 📦](https://github.com/natsuk4ze/npm) - npm client app with modern flutter coding style.
 
-<img src="https://github.com/natsuk4ze/npm/raw/master/assets/example.gif" alt="npm-client" width="280"/>
+<img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/example.gif" alt="npm-client" width="280"/>
  
 ### [Link 🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI.
 
