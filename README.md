@@ -2,7 +2,7 @@
 
 I'm Midori Natuskaze, ex game dev, flutter now.
 
-<!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true)-->
+<!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true&show_icons=true)-->
 
 ## Showcase
 
