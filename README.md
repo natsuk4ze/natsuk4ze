@@ -6,15 +6,19 @@ I'm Midori Natuskaze, ex game dev, flutter now.
 
 ## Showcase
 
-### [Gal 🖼](https://pub.dev/packages/gal) - Flutter plugin for handle native gallery apps.
+### [Gal 🖼](https://pub.dev/packages/gal) - Flutter plugin for handle native gallery apps
 
 <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/android.gif" alt="gal" height="340"/> 
 
-### [npm client 📦](https://github.com/natsuk4ze/npm) - npm client app with modern flutter coding style.
+### [npm client 📦](https://github.com/natsuk4ze/npm) - npm client app with modern flutter coding style
 
 <img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/example.gif" alt="npm-client" width="280"/>
+
+### [Holo 🌈](https://github.com/natsuk4ze/holo) - holographic-effect with flutter
+
+<img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" width="340"/>
  
-### [Link 🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI.
+### [Link 🏢](https://github.com/natsuk4ze/link) - 3D simulation game, building city with AI
 
 <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="600"/>
  
@@ -22,7 +26,7 @@ I'm Midori Natuskaze, ex game dev, flutter now.
 
 <img src="assets/planet.gif" alt="planet" width="600"/>
  
-### [City Star Liner 🌌](https://github.com/natsuk4ze/city-star-liner) - 3D shooting game, draw line = break everthing.
+### [City Star Liner 🌌](https://github.com/natsuk4ze/city-star-liner) - 3D shooting game, draw line = break everthing
 
 <img src="https://github.com/natsuk4ze/city-star-liner/blob/master/readme-assets/showcase.gif" alt="citystarliner" width="600"/>
  
