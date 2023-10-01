@@ -2,7 +2,7 @@
 
 I'm Midori Natuskaze, ex game dev, flutter now.
 
-casually looking for job opportunities
+Casually looking for job opportunities.
 
 <!--![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true&show_icons=true\&theme=dark#gh-dark-mode-only)-->
 
