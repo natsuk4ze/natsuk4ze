@@ -10,10 +10,10 @@ Casually looking for job opportunities.
 
 | Project | Preview |
 | ------- | ------- |
-| [Gal 🖼](https://pub.dev/packages/gal)<br><br>Flutter plugin for handle native gallery apps.<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=gal&theme=dracula" alt="gal" /> | <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/android.gif" alt="gal" height="340"/> |
-| [npm client 📦](https://github.com/natsuk4ze/npm)<br><br>npm client app with modern flutter coding style.<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=npm&theme=dracula" alt="npm-client" /> | <img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/example.gif" alt="npm-client" height="340"/> |
-| [Holo 🌈](https://github.com/natsuk4ze/holo)<br><br>holographic-effect with flutter.<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" />| <img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" height="340"/> |
-| [Planet 📚](https://planet-1424d.web.app)<br><br>CMS for story writer made with flutter web. *archived.| <img src="assets/planet.gif" alt="planet" width="400"/> |
+| [Gal 🖼 - Flutter plugin for handle native gallery apps](https://pub.dev/packages/gal)<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=gal&theme=dracula" alt="gal" /> | <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/android.gif" alt="gal" height="340"/> |
+| [npm client 📦 - npm client app with modern flutter coding style](https://github.com/natsuk4ze/npm)<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=npm&theme=dracula" alt="npm-client" /> | <img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/example.gif" alt="npm-client" height="340"/> |
+| [Holo 🌈 - holographic-effect with flutter](https://github.com/natsuk4ze/holo)<br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" />| <img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" height="340"/> |
+| [Planet 📚 - CMS for story writer made with flutter web. *archived](https://planet-1424d.web.app)| <img src="assets/planet.gif" alt="planet" width="400"/> |
  
 ## 🎮 Game Projects
 
