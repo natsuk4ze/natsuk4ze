@@ -15,7 +15,7 @@ I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer. I am
 ## 🧙 Flutter UI Challenges
 | [🌈 Holo effects](https://github.com/natsuk4ze/holo) | [🤩 RGB effects](https://x.com/natsuk4ze/status/1710213426994422021) |
 | :-------: | :-------: |
-| <br><br><img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" width="200"/><br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" /> | <img src="assets/rgb_effects.gif" alt="rgb" width="400"/> <br><br>**Repository is preparing...**|
+| <br><br><img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" width="200"/><br><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" /> | <img src="assets/rgb_effects.gif" alt="rgb" width="400"/> <br><br>**Repo is under preparation...**|
 
 ## 🎮 Game Projects
 
