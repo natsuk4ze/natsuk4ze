@@ -21,10 +21,10 @@ I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer. I am
 
 | Project | Preview |
 | ------- | ------- |
-| [Link 🏢](https://github.com/natsuk4ze/link)<br><br>3D simulation game created by the team at HAL Tokyo🏫 using DirectX. *HAL Grand Prize*🏅 at [未来創造展2019](https://www.hal.ac.jp/tokyo/campuslife/ms2019) <br><br>🗓 October 2019 - January 2020 | <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="300"/> |
-| [City Star Liner 🌌](https://github.com/natsuk4ze/city-star-liner)<br><br>3D shooting game created by the team RedCopper👒 at HAL Tokyo🏫 using DirectX.<br><br>🗓 July 2019 - October 2019 | <img src="https://github.com/natsuk4ze/city-star-liner/blob/master/readme-assets/showcase.gif" alt="citystarliner" width="300"/> |
-| [Tank Beats 🎵](https://github.com/natsuk4ze/tank-beats)<br><br>3D music x shooting game ceated by Midori using DirectX.<br><br>🗓 ? 2019 - ? 2019 | <img src="https://github.com/natsuk4ze/tank-beats/blob/master/readme-assets/example.gif" alt="Tank Beats" width="300"/> |
-| [Space Rabbits 🐰](https://github.com/natsuk4ze/space-rabbits)<br><br>2D shooting game ceated by Midori using DirectX.<br><br>🗓 ? 2018 - ? 2018 | <img src="https://github.com/natsuk4ze/space-rabbits/blob/master/readme-assets/showcase.gif" alt="Space Rabbits" width="300"/> |
+| [Link 🏢](https://github.com/natsuk4ze/link)<br><br>3D simulation game created by the team at HAL Tokyo🏫 using DirectX. *HAL Grand Prize*🏅 | <img src="https://github.com/natsuk4ze/link/blob/master/readme_assets/example.gif" alt="link" width="300"/> |
+| [City Star Liner 🌌](https://github.com/natsuk4ze/city-star-liner)<br><br>3D shooting game created by the team RedCopper👒 at HAL Tokyo🏫 using DirectX. | <img src="https://github.com/natsuk4ze/city-star-liner/blob/master/readme-assets/showcase.gif" alt="citystarliner" width="300"/> |
+| [Tank Beats 🎵](https://github.com/natsuk4ze/tank-beats)<br><br>3D music x shooting game ceated by Midori using DirectX. | <img src="https://github.com/natsuk4ze/tank-beats/blob/master/readme-assets/example.gif" alt="Tank Beats" width="300"/> |
+| [Space Rabbits 🐰](https://github.com/natsuk4ze/space-rabbits)<br><br>2D shooting game ceated by Midori using DirectX. | <img src="https://github.com/natsuk4ze/space-rabbits/blob/master/readme-assets/showcase.gif" alt="Space Rabbits" width="300"/> |
 
 ## Awards 🎖
 
