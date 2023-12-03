@@ -8,7 +8,7 @@ I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer. I am
 
 | Project | Preview |
 | ------- | ------- |
-| [Gal 🖼 - Flutter plugin for handle native gallery apps](https://pub.dev/packages/gal)<br><br><a href="https://github.com/natsuk4ze/gal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=gal&theme=dracula" alt="gal" /></a> | <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/readme_assets/android.gif" alt="gal" height="340"/> |
+| [Gal 🖼 - Flutter plugin for handle native gallery apps](https://pub.dev/packages/gal)<br><br><a href="https://github.com/natsuk4ze/gal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=gal&theme=dracula" alt="gal" /></a> | <img src="https://github.com/natsuk4ze/gal/raw/main/assets/ios.gif" alt="gal" height="340"/> <img src="https://github.com/natsuk4ze/gal/raw/main/assets/android.gif" alt="gal" height="340"/> |
 | [npm client 📦 - npm client app with modern flutter coding style](https://github.com/natsuk4ze/npm)<br><br><a href="https://github.com/natsuk4ze/npm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=npm&theme=dracula" alt="npm" /></a> | <img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/example.gif" alt="npm-client" height="340"/> <img src="https://github.com/natsuk4ze/npm/raw/master/assets/readme/dark_mode.gif" alt="npm-client" height="340"/> |
 | [Planet 📚 - CMS for story writer made with flutter web. *archived](https://planet-1424d.web.app)<br><br>**Repository is private**| <img src="assets/planet.gif" alt="planet" width="400"/> |
 
