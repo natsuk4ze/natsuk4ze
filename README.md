@@ -1,6 +1,6 @@
 # Hoya👋
 
-I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer. I am casually looking for work opportunities. Please feel free to [contact me](https://midoridesign.studio.site).
+I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true&show_icons=true\&theme=dracula)
 
