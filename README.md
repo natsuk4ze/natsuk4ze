@@ -17,7 +17,7 @@ I'm Midori Natuskaze. Formerly a game developer and now a Flutter engineer.
 ## 🧙 Flutter UI Challenges
 | [🌈 Holo effects](https://github.com/natsuk4ze/holo) | [🤩 RGB effects](https://github.com/natsuk4ze/rgb_lights) |
 | :-------: | :-------: |
-| <br><br><img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" width="200"/><br><br><a href="https://github.com/natsuk4ze/holo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" /> | <img src="https://github.com/natsuk4ze/rgb_lights/raw/main/assets/demo.gif" alt="rgb" width="200"/><br><br> <a href="https://github.com/natsuk4ze/rgb_lights"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=rgb_lights&theme=dracula" alt="rgb_lights" />|
+| <br><br><img src="https://github.com/natsuk4ze/holo/raw/main/assets/example.gif" alt="holo" width="200"/><br><br><a href="https://github.com/natsuk4ze/holo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=holo&theme=dracula" alt="holo" /> | <img src="https://github.com/natsuk4ze/rgb_lights/raw/main/assets/demo.gif" alt="rgb" width="400"/><br><br> <a href="https://github.com/natsuk4ze/rgb_lights"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natsuk4ze&repo=rgb_lights&theme=dracula" alt="rgb_lights" />|
 
 ## 🎮 Game Projects
 
