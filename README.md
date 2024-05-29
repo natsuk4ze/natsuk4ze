@@ -30,7 +30,7 @@ Feel free to [DM me](https://x.com/natsuk4ze). Formerly a game developer and now
 
 ## Awards 🎖
 
-* *HAL Grand Prize*🏅 at [未来創造展2019](https://www.hal.ac.jp/tokyo/campuslife/ms2019)
+* *HAL Grand Prize*🏅 at [未来創造展2020](https://www.hal.ac.jp/tokyo/campuslife/ms2020)
 -> 🎁 Bali trip for a week.
 
 ## About Me
