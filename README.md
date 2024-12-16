@@ -1,7 +1,7 @@
 # Hoya👋
 
+### Currently working for [snkrdunk](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AF-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%88%E3%83%AC%E3%82%AB%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id1455592069) as freelance.
 Feel free to [DM me](https://x.com/natsuk4ze). Formerly a game developer and now a Flutter engineer.
-Currently working for [snkrdunk](https://apps.apple.com/jp/app/%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AF-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%88%E3%83%AC%E3%82%AB%E3%81%AE%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA/id1455592069) as freelance.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=natsuk4ze&count_private=true&show_icons=true\&theme=dracula)
 
